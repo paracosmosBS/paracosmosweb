@@ -1501,7 +1501,12 @@ body {
   }
 }
 .cid-qU6zsrBXUf .mbr-section-text {
-  text-align: center;
+  text-align: left;
+}
+.cid-qUhiur8Mmz {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-qU6yAk2CTr {
   padding-top: 30px;
@@ -1603,8 +1608,8 @@ body {
   }
 }
 .cid-qU6Drr97Q6 {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/arbol-bw-2000x2829.png");
 }
 .cid-qU6Drr97Q6 .testimonial-text {
@@ -1620,7 +1625,7 @@ body {
   color: #232;
 }
 .cid-qU6DFpwW0E {
-  padding-top: 75px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #f9f9f9;
 }
