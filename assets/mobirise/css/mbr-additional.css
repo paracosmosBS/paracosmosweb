@@ -1594,22 +1594,78 @@ body {
 .cid-qU6D8ZDKps blockquote {
   color: #767676;
 }
-.cid-qU6Cduf8zQ {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background: #232323;
+.cid-qV4okWIMBm {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qU6Cduf8zQ .video-block {
+.cid-qV4okWIMBm H2 {
+  color: #232323;
+  text-align: left;
+}
+.cid-qV4okWIMBm .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-qV4fbSOwjR {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #c1c1c1;
+  background: linear-gradient(0deg, #c1c1c1, #ffffff);
+}
+.cid-qV4fbSOwjR .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-qU6Cduf8zQ .video-block {
+  .cid-qV4fbSOwjR .video-block {
+    width: 100% !important;
+  }
+}
+.cid-qV4jCKIvw0 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #898888;
+  background: linear-gradient(0deg, #898888, #c1c1c1);
+}
+.cid-qV4jCKIvw0 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qV4jCKIvw0 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-qV4jTxDiMG {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #c1c1c1;
+  background: linear-gradient(0deg, #c1c1c1, #898888);
+}
+.cid-qV4jTxDiMG .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qV4jTxDiMG .video-block {
+    width: 100% !important;
+  }
+}
+.cid-qV4jS8Kgos {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #c1c1c1);
+}
+.cid-qV4jS8Kgos .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qV4jS8Kgos .video-block {
     width: 100% !important;
   }
 }
 .cid-qU6Drr97Q6 {
-  padding-top: 45px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/arbol-bw-2000x2829.png");
 }
 .cid-qU6Drr97Q6 .testimonial-text {
@@ -1627,10 +1683,10 @@ body {
 .cid-qU6DFpwW0E {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #2e2e2e;
 }
 .cid-qU6DFpwW0E .mbr-section-subtitle {
-  color: #767676;
+  color: #c1c1c1;
 }
 .cid-qU6DFpwW0E .media-row {
   display: flex;
@@ -1659,7 +1715,10 @@ body {
   font-size: 17px;
 }
 .cid-qU6DFpwW0E .team-item .item-caption {
-  background: #efefef;
+  background: #ffffff;
+}
+.cid-qU6DFpwW0E H2 {
+  color: #ffffff;
 }
 .cid-qU6Hqf8kUQ {
   padding-top: 45px;
